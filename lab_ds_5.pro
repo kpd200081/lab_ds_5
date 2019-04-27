@@ -12,3 +12,6 @@ HEADERS += \
     huff.h \
     lzw.h \
     md5.h
+
+DISTFILES += \
+    commands.sh
